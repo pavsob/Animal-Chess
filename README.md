@@ -1,5 +1,5 @@
 # Animal-Chess
-Implemented baskend side for the Animal Chess game.  
+Implemented backend side for the Animal Chess game.  
 
 The game of chess reached Japan from India around one thousand years ago, and over the centuries it developed rather differently in Japan from the rest of the world. The game’s focus switched towards pieces that move only one square at a time, and curious innovations arose, including a more complex system of promotions, and the ability to “drop” a captured piece onto the board with its colour changed. The most popular chess variant in Japan today is known as Shogi, or The Game of Generals; it has gained popularity over the years, and now has a significant number of players outside the country.  
 The subject of this practical is Goro-Goro Dobutsu Shogi (or Purring Animal Chess), a small Shogi variant designed by professional Shogi player Madoka Kitao, her aim being to introduce children to Shogi. The game is played on a 5×6 board, and features four different animals which all move in different ways, with similarities to pieces found in chess.
